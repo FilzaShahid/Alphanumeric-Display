@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Project 9 Group 76.PcbDoc   9/11/2020  12:09:40 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : Project 9 Group 76-Plated.TXT
+EIA File   : Project 9 Group 76.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        20mil (0.508mm)          Round          2                0.20 Inch (5.09 mm)
+T2        28mil (0.7112mm)         Round          92               39.09 Inch (992.89 mm)
+T3        30mil (0.762mm)          Round          120              26.02 Inch (660.91 mm)
+T4        35mil (0.889mm)          Round          11               2.24 Inch (56.83 mm)
+---------------------------------------------------------------------------
+Totals                                            225              67.55 Inch (1715.71 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
